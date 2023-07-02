@@ -8,8 +8,8 @@
 ```
 git clone git@github.com:Katerina-Alekseenko/api_yandex._disk.git
 ``` 
-1. Указать актуальный путь до файла на компьютере в path_to_file
-2. Поместить токен с [Полигон](https://yandex.ru/dev/disk/poligon/) в переменную token.
-3. Запустить программу
+2. Указать актуальный путь до файла на компьютере в path_to_file
+3. Поместить токен с [Полигон](https://yandex.ru/dev/disk/poligon/) в переменную token.
+4. Запустить программу
 
 Файл будет помещен на Яндекс.Диск в папку "Загрузки".
